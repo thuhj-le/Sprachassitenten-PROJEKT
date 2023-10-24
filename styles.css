@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+}
